@@ -30,6 +30,10 @@ input[type="text"] {
   width: 3em;
   height: 3em;
 }
+
+.nothing{
+  color:red;
+}
 @-webkit-keyframes load8 {
   0% {
     -webkit-transform: rotate(0deg);
